@@ -1,2 +1,2 @@
-pip install termcolor
-pip install animation
+termcolor
+animation
