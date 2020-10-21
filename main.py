@@ -152,8 +152,8 @@ _)      \.___.,|     .'		█░░░░░░█████████░░�
    
    
    details='''
-                           Hello this is an import program
-                                   Craeted by ayyapan
+                           Hello this is an important program
+                                   Craeted by DCHACKZzz
                                       
                                        
 ====================================================================================================
