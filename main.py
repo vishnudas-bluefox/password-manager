@@ -139,8 +139,8 @@ def main():
 _)      \.___.,|     .'		█░░░░░░█████████░░░░░░██████████░░░░░░█
 \____   )MMMMMP|   .'		███████████████████████████████████████
      `-'       `--'                                        
-                                                                                                       PASSWORD MANAGER
-                                                                                                       CREATED BY DCHACKZz
+                                                              | PASSWORD MANAGER
+                                                              | CREATED BY DCHACKZz
     
     
     
