@@ -24,9 +24,11 @@ python main.py
 
 apt-get update && apt-get upgrade
 
-apt-get install python
+apt-get install python3
 
 apt-get install git
+
+pip3 install -r requirements.txt 
 
 git clone https://github.com/DCHACKZzz/password-manager
 
