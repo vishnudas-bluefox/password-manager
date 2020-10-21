@@ -10,9 +10,9 @@ pkg install git
 
 pkg install python
 
-pip install termcolor
+pip install -r requirements.txt
 
-pip install animation
+
 
 git clone https://github.com/DCHACKZzz/password-manager
 
